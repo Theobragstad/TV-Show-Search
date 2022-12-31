@@ -10,13 +10,14 @@ Axios is used for the API call
 
 ## How to run locally
 - Download or clone this repo, and navigate to the folder/directory
-- Add an .env file to root directory:  
-
-    POSTGRES_USER="postgres"
-    POSTGRES_PASSWORD="pwd"
-    POSTGRES_DB="reviews_db"
-
-- Run docker compose up  
+- Add an .env file to the root directory (see contents below)
+- Run 'docker compose up'
 - Go to localhost:3000 
 
 ### Or, check out the demo video in the repo
+___
+.env:
+
+    POSTGRES_USER="postgres"  
+    POSTGRES_PASSWORD="pwd"  
+    POSTGRES_DB="reviews_db"  
