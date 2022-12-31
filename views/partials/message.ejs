@@ -1,0 +1,7 @@
+<% if (locals.message) { %>
+    <div class="text-center" style="padding-top:2vh;font-size:.75vw;">
+        <div class="btn rounded-pill alert alert-<%- locals.error ? 'danger' : 'success' %>" role="alert">
+            <%= message %> 
+        </div>
+    </div>
+<% } %>
