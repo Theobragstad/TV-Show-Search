@@ -18,3 +18,5 @@ Axios is used for the API call
 
 - Run docker compose up  
 - Go to localhost:3000 
+
+### Or, check out the demo video in the repo
