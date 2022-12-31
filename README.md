@@ -9,7 +9,7 @@ Axios is used for the API call
 
 
 ## How to run locally
-- Download or clone this repo
+- Download or clone this repo, and navigate to the folder/directory
 - Add an .env file to root directory:  
 
     POSTGRES_USER="postgres"
