@@ -9,6 +9,7 @@ Axios is used for the API call
 
 
 ## How to run locally
+- Docker Desktop must be installed and running
 - Download or clone this repo, and navigate to the folder/directory
 - Add an .env file to the root directory (see contents below)
 - Run 'docker compose up'
