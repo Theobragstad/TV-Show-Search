@@ -13,11 +13,13 @@ Axios is used for the API call
 - Add an .env file to the root directory (see contents below)
 - Run 'docker compose up'
 - Go to localhost:3000 
-
-### Or, check out the demo video in the repo
 ___
 .env:
 
     POSTGRES_USER="postgres"  
     POSTGRES_PASSWORD="pwd"  
     POSTGRES_DB="reviews_db"  
+
+
+https://user-images.githubusercontent.com/48075045/210167766-c2005adb-8f00-48bf-96a1-62ececdd4b6f.mp4
+
